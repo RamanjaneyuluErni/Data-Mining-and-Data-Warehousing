@@ -1,0 +1,9 @@
+|HYDERABAD         |******missing         |1234                      
+|NEWYORK           |UNITED_STATES         |******missing                  
+|*****missing      |ENGLAND               |2345                    
+|MELBOURNE         |****missing           |****missing                    
+|BEIJING           |***missing            |9856
+                    
+|**missing         |EGYPT                 |**missing                      
+|*missing          |*missing              |*missing                       
+|SEOUL             |SOUTH_KOREA           |7731                    

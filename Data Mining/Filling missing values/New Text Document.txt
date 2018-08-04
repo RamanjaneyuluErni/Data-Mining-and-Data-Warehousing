@@ -1,0 +1,12 @@
+|HYDERABAD         |*       |1234                      |
+|NEWYORK           |UNITED_STATES   |*                 |
+|*                 |ENGLAND        |2345               |
+
+|MELBOURNE         |*         |*
+                       |
+|BEIJING           |*         |9856
+                    |
+|*           |EGYPT           |*
+                       |
+|*           |*       |*                               |
+|SEOUL             |SOUTH_KOREA     |7731              |
